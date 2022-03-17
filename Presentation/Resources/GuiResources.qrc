@@ -1,0 +1,49 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>minus.svg</file>
+    <file>exit.svg</file>
+    <file>Player/forward.svg</file>
+    <file>Player/next.svg</file>
+    <file>Player/pause.svg</file>
+    <file>Player/play.svg</file>
+    <file>Player/previous.svg</file>
+    <file>Player/rewind.svg</file>
+    <file>green-check.svg</file>
+    <file>cloud-download.svg</file>
+    <file>cloud-upload.svg</file>
+    <file>logo-white.png</file>
+    <file>logo.png</file>
+    <file>list.svg</file>
+    <file>check_mark.ico</file>
+    <file>close.ico</file>
+    <file>lock.svg</file>
+    <file>user.svg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>SplashSmall.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>Lato/Lato-Black.ttf</file>
+    <file>Lato/Lato-BlackItalic.ttf</file>
+    <file>Lato/Lato-Bold.ttf</file>
+    <file>Lato/Lato-BoldItalic.ttf</file>
+    <file>Lato/Lato-Italic.ttf</file>
+    <file>Lato/Lato-Light.ttf</file>
+    <file>Lato/Lato-LightItalic.ttf</file>
+    <file>Lato/Lato-Regular.ttf</file>
+    <file>Lato/Lato-Thin.ttf</file>
+    <file>Lato/Lato-ThinItalic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-SemiBoldItalic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-SemiBold.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-Regular.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-LightItalic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-Light.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-Italic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-ExtraLightItalic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-ExtraLight.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-BoldItalic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-Bold.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-BlackItalic.ttf</file>
+    <file>Source_Sans_Pro/SourceSansPro-Black.ttf</file>
+  </qresource>
+</RCC>
